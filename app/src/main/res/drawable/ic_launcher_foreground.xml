@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Golden Rub El Hizb Star Outer Emblem -->
+    <path
+        android:pathData="M54,20 L61,28 L71,24 L72,35 L82,38 L79,48 L88,54 L79,60 L82,70 L72,73 L71,84 L61,80 L54,88 L47,80 L37,84 L36,73 L26,70 L29,60 L20,54 L29,48 L26,38 L36,35 L37,24 L47,28 Z"
+        android:strokeWidth="1.5">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:type="linear"
+                android:startX="20"
+                android:startY="20"
+                android:endX="88"
+                android:endY="88">
+                <item android:offset="0.0" android:color="#33D4AF37"/>
+                <item android:offset="1.0" android:color="#22FBBF24"/>
+            </gradient>
+        </aapt:attr>
+        <aapt:attr name="android:strokeColor">
+            <gradient
+                android:type="linear"
+                android:startX="20"
+                android:startY="20"
+                android:endX="88"
+                android:endY="88">
+                <item android:offset="0.0" android:color="#FBBF24"/>
+                <item android:offset="1.0" android:color="#D4AF37"/>
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Open Holy Quran Book Vector Artwork -->
+    <!-- Left Page -->
+    <path
+        android:pathData="M52,38 C42,35 30,37 24,41 L24,74 C30,70 42,68 52,71 Z"
+        android:strokeWidth="1">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:type="linear"
+                android:startX="24"
+                android:startY="35"
+                android:endX="52"
+                android:endY="74">
+                <item android:offset="0.0" android:color="#FFFDF0"/>
+                <item android:offset="1.0" android:color="#F3E5AB"/>
+            </gradient>
+        </aapt:attr>
+        <aapt:attr name="android:strokeColor">
+            <gradient
+                android:type="linear"
+                android:startX="24"
+                android:startY="35"
+                android:endX="52"
+                android:endY="74">
+                <item android:offset="0.0" android:color="#D4AF37"/>
+                <item android:offset="1.0" android:color="#996515"/>
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Right Page -->
+    <path
+        android:pathData="M56,38 C66,35 78,37 84,41 L84,74 C78,70 66,68 56,71 Z"
+        android:strokeWidth="1">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:type="linear"
+                android:startX="56"
+                android:startY="35"
+                android:endX="84"
+                android:endY="74">
+                <item android:offset="0.0" android:color="#FFFDF0"/>
+                <item android:offset="1.0" android:color="#F3E5AB"/>
+            </gradient>
+        </aapt:attr>
+        <aapt:attr name="android:strokeColor">
+            <gradient
+                android:type="linear"
+                android:startX="56"
+                android:startY="35"
+                android:endX="84"
+                android:endY="74">
+                <item android:offset="0.0" android:color="#D4AF37"/>
+                <item android:offset="1.0" android:color="#996515"/>
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Quran Book Spine / Center Binding Ribbon -->
+    <path
+        android:pathData="M52,38 L56,38 L56,71 L52,71 Z"
+        android:fillColor="#D4AF37"/>
+
+    <path
+        android:pathData="M54,38 L54,78"
+        android:strokeColor="#10B981"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"/>
+
+    <!-- Crescent Moon Ornament at top center -->
+    <path
+        android:pathData="M54,25 A5,5 0 1,0 59,30 A4,4 0 1,1 54,25 Z"
+        android:fillColor="#FBBF24"/>
+</vector>
