@@ -84,3 +84,4 @@ The bundle is produced at `app/build/outputs/bundle/release/app-release.aab`. If
 Play Console labels, asset requirements, account verification, target API deadlines, and testing rules can change and may differ by account or region. Treat the current Play Console dashboard and official policy pages as authoritative. No client-side app can be guaranteed safe from every form of Android hacking; ongoing updates, minimal permissions, secure key handling, accurate privacy disclosures, and release testing are essential.
 
 # quran-karim
+# quran-karim
